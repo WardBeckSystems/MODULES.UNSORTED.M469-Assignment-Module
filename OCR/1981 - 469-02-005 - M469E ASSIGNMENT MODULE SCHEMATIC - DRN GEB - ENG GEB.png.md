@@ -34,7 +34,7 @@ Wiki page: [M469](../../../../PAGES/M469.md)
 - **Title block:** (290, 17)–(432, 85) mm: ISSUE |DATE · REVISION · APF · WBS WARD-BECK SYSTEMS · DRN, GEB · M469E · ENG GEB4/81 · ASSIGNMENT MODULE · CKD; · SCHEMATIC · APP · SCALE · ISSUE
 - **Wiring (first pass):** 26 connected wire groups from 196 runs; labelled ends: 116 mm → 13, R4, 30K, R5; 103 mm → 14; 96 mm → 14, Swi; 95 mm → 13, SWz; 44 mm → R2, Sk, OUT
 
-Every curve, box, word and wire group: [1981 - 469-02-005 - M469E ASSIGNMENT MODULE SCHEMATIC - DRN GEB - ENG GEB (traced).json](../SCHEMATICS/1981%20-%20469-02-005%20-%20M469E%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20GEB%20(traced).json) (the CAD file: `1981 - 469-02-005 - M469E ASSIGNMENT MODULE SCHEMATIC - DRN GEB - ENG GEB (traced).dxf`).
+Every curve, box, word and wire group: [1981 - 469-02-005 - M469E ASSIGNMENT MODULE SCHEMATIC - DRN GEB - ENG GEB (traced).json](../SCHEMATICS/1981%20-%20469-02-005%20-%20M469E%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20GEB%20%28traced%29.json) (the CAD file: `1981 - 469-02-005 - M469E ASSIGNMENT MODULE SCHEMATIC - DRN GEB - ENG GEB (traced).dxf`).
 
 ## Full text
 

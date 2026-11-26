@@ -36,7 +36,7 @@ Wiki page: [M469](../../../../PAGES/M469.md)
 - **Title block:** (278, 14)–(430, 82) mm: ISSUE DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN_ PA · M469H · ENG_ PA · SUB ASSIGN MODULE · CKD · SCHEMATIC · APP · SCALE · 469-02-009 · ISSUE
 - **Wiring (first pass):** 65 connected wire groups from 325 runs, 1 dotted junctions; labelled ends: 351 mm → Ri7, 2ks< Rib, Rig, Swg; 194 mm → PRE Ipost, 35, 36, R5.6; 151 mm → R5.6, RR59; 125 mm → R5.6, RR59; 118 mm → SCALE
 
-Every curve, box, word and wire group: [1985 - 469-02-009 - M469H SUB ASSIGN MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).json](../SCHEMATICS/1985%20-%20469-02-009%20-%20M469H%20SUB%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20(traced).json) (the CAD file: `1985 - 469-02-009 - M469H SUB ASSIGN MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - 469-02-009 - M469H SUB ASSIGN MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).json](../SCHEMATICS/1985%20-%20469-02-009%20-%20M469H%20SUB%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1985 - 469-02-009 - M469H SUB ASSIGN MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -37,7 +37,7 @@ Wiki page: [M469](../../../../PAGES/M469.md)
 - **Words (OCR):** 61 in 49 lines: HoTCS · REMcvc ACC · Zurrs · Sharp · 1.480 · USC WiTH: · Extrusion · FrAME · C469-03 Oos · For S/s ACtiokk · 3469-03-067/ai · 1.025
 - **Title block:** (277, 13)–(430, 82) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · ENG_ PA · m4t9 G · CKDS · APP · SCALE · 4t9-63-007 · ISSUE
 
-Every curve, box, word and wire group: [1985 - 469-03-007 - M469G ESCUTCHEON - DRN DRG - ENG PA - ISS 1 (traced).json](../MECHANICAL/1985%20-%20469-03-007%20-%20M469G%20ESCUTCHEON%20-%20DRN%20DRG%20-%20ENG%20PA%20-%20ISS%201%20(traced).json) (the CAD file: `1985 - 469-03-007 - M469G ESCUTCHEON - DRN DRG - ENG PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - 469-03-007 - M469G ESCUTCHEON - DRN DRG - ENG PA - ISS 1 (traced).json](../MECHANICAL/1985%20-%20469-03-007%20-%20M469G%20ESCUTCHEON%20-%20DRN%20DRG%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1985 - 469-03-007 - M469G ESCUTCHEON - DRN DRG - ENG PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

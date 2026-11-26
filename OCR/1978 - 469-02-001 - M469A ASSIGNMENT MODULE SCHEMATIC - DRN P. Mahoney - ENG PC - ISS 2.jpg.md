@@ -38,7 +38,7 @@ Wiki page: [M469](../../../../PAGES/M469.md)
 - **Title block:** (278, 11)–(432, 80) mm: /78 PINS · WERE REVERSED · ISSUE DATE · REVISION · APP · WARD-BECK SYSTEMS · WBS · DRN PMANEY · M469A · ENG_ · MODULE · ASSIGNMENT · CKD · SCHEMATIC · APP · SCALE · 469-02-001 · ISSUE
 - **Wiring (first pass):** 85 connected wire groups from 391 runs, 1 dotted junctions; labelled ends: 253 mm → 14 <; 246 mm → 113<, Swz, JWe, Sw4; 240 mm → Sw 8, SW6; 232 mm → 15<, INPUT 3, 14 <, Sw5; 196 mm → 113<, INPUT 2, Bok, Rs
 
-Every curve, box, word and wire group: [1978 - 469-02-001 - M469A ASSIGNMENT MODULE SCHEMATIC - DRN P. Mahoney - ENG PC - ISS 2 (traced).json](../SCHEMATICS/1978%20-%20469-02-001%20-%20M469A%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20DRN%20P.%20Mahoney%20-%20ENG%20PC%20-%20ISS%202%20(traced).json) (the CAD file: `1978 - 469-02-001 - M469A ASSIGNMENT MODULE SCHEMATIC - DRN P. Mahoney - ENG PC - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 469-02-001 - M469A ASSIGNMENT MODULE SCHEMATIC - DRN P. Mahoney - ENG PC - ISS 2 (traced).json](../SCHEMATICS/1978%20-%20469-02-001%20-%20M469A%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20DRN%20P.%20Mahoney%20-%20ENG%20PC%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1978 - 469-02-001 - M469A ASSIGNMENT MODULE SCHEMATIC - DRN P. Mahoney - ENG PC - ISS 2 (traced).dxf`).
 
 ## Full text
 

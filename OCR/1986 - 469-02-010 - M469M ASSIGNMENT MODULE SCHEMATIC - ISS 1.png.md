@@ -36,7 +36,7 @@ Wiki page: [M469](../../../../PAGES/M469.md)
 - **Title block:** (280, 12)–(432, 80) mm: ISSUE |DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · M4l9M · 4e1 · ASSIGNMENT · MODULE · CKD · SCHEMATIC · APP · ScAE · ISSUE · 4l9-02-010
 - **Wiring (first pass):** 63 connected wire groups from 383 runs; labelled ends: 468 mm → Input 3, 154, 54, 83k; 370 mm → 134, Input 2, Rs, Be; 360 mm → 14<, 154, 54, Sok; 319 mm → 134, Input 2, Swz, Sw6; 300 mm → 14<, Sw5, Sw3
 
-Every curve, box, word and wire group: [1986 - 469-02-010 - M469M ASSIGNMENT MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/1986%20-%20469-02-010%20-%20M469M%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `1986 - 469-02-010 - M469M ASSIGNMENT MODULE SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - 469-02-010 - M469M ASSIGNMENT MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/1986%20-%20469-02-010%20-%20M469M%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1986 - 469-02-010 - M469M ASSIGNMENT MODULE SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

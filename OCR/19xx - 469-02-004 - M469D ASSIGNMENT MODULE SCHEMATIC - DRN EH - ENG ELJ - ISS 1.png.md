@@ -36,7 +36,7 @@ Wiki page: [M469](../../../../PAGES/M469.md)
 - **Title block:** (279, 8)–(431, 77) mm: IISSUE DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN · M469D · ENG_ · ELI · ASSIGNMENT · MODULE · CKD: · SCHEMATIC · APP · SCALE · ISSUE · 469 - 02 -004
 - **Wiring (first pass):** 40 connected wire groups from 219 runs, 5 dotted junctions; labelled ends: 168 mm → Sok, swt; 144 mm → Sw 1; 48 mm → 15 K; 31 mm → Mi, OUT; 22 mm → M2
 
-Every curve, box, word and wire group: [19xx - 469-02-004 - M469D ASSIGNMENT MODULE SCHEMATIC - DRN EH - ENG ELJ - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20469-02-004%20-%20M469D%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20DRN%20EH%20-%20ENG%20ELJ%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 469-02-004 - M469D ASSIGNMENT MODULE SCHEMATIC - DRN EH - ENG ELJ - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 469-02-004 - M469D ASSIGNMENT MODULE SCHEMATIC - DRN EH - ENG ELJ - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20469-02-004%20-%20M469D%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20DRN%20EH%20-%20ENG%20ELJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 469-02-004 - M469D ASSIGNMENT MODULE SCHEMATIC - DRN EH - ENG ELJ - ISS 1 (traced).dxf`).
 
 ## Full text
 
