@@ -1,16 +1,16 @@
-# M469 · Unsorted
+# M469 Assignment Module · Unsorted
 
 Ward-Beck Systems M469, 1978|11. Wiki page: [M469 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M469.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 32 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 0 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 0 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 33 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 9 |
 
 ## Mechanical
@@ -38,6 +38,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1986 - 469-02-011 - M469N ASSIGNMENT MODULE SCHEMATIC - ISS 1.kicad_sch](KICAD/1986%20-%20469-02-011%20-%20M469N%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20ISS%201.kicad_sch)
 - [19xx - 469-02-004 - M469D ASSIGNMENT MODULE SCHEMATIC - DRN EH - ENG ELJ - ISS 1.kicad_sch](KICAD/19xx%20-%20469-02-004%20-%20M469D%20ASSIGNMENT%20MODULE%20SCHEMATIC%20-%20DRN%20EH%20-%20ENG%20ELJ%20-%20ISS%201.kicad_sch)
 - [M469.kicad_sym](KICAD/M469.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
