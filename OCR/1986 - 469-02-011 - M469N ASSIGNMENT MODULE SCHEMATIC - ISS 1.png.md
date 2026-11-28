@@ -1,5 +1,5 @@
 # 1986 - 469-02-011 - M469N ASSIGNMENT MODULE SCHEMATIC - ISS 1.png
-Wiki page: [M469](../../../../PAGES/M469.md)
+Wiki page: [M469](../)
 
 
 - **Year:** 1986 (title block date)

@@ -1,5 +1,5 @@
 # 1985 - 469-02-009 - M469H SUB ASSIGN MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1.png
-Wiki page: [M469](../../../../PAGES/M469.md)
+Wiki page: [M469](../)
 
 
 - **Year:** 1985 (title block date)

@@ -1,5 +1,5 @@
 # 1985 - 469-03-007 - M469G ESCUTCHEON - DRN DRG - ENG PA - ISS 1.png
-Wiki page: [M469](../../../../PAGES/M469.md)
+Wiki page: [M469](../)
 
 
 - **Year:** 1985 (title block date)

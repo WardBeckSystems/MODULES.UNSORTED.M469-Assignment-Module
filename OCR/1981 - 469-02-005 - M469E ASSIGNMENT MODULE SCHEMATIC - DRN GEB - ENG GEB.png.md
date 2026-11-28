@@ -1,5 +1,5 @@
 # 1981 - 469-02-005 - M469E ASSIGNMENT MODULE SCHEMATIC - DRN GEB - ENG GEB.png
-Wiki page: [M469](../../../../PAGES/M469.md)
+Wiki page: [M469](../)
 
 
 - **Year:** 1981 (title block date)

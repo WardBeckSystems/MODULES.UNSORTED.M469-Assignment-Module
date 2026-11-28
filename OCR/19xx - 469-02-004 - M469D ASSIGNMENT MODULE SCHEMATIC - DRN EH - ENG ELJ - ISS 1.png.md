@@ -1,5 +1,5 @@
 # 19xx - 469-02-004 - M469D ASSIGNMENT MODULE SCHEMATIC - DRN EH - ENG ELJ - ISS 1.png
-Wiki page: [M469](../../../../PAGES/M469.md)
+Wiki page: [M469](../)
 
 
 - **Year:** unknown (title block (read by eye))

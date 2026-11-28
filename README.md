@@ -1,6 +1,6 @@
 # M469 Assignment Module · Routing
 
-Ward-Beck Systems M469, 1978|11. Wiki page: [M469 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M469.html)
+Ward-Beck Systems M469, 1978|11. Wiki page: [M469 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M469-Assignment-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # 1978 - 469-02-001 - M469A ASSIGNMENT MODULE SCHEMATIC - DRN P. Mahoney - ENG PC - ISS 2.jpg
-Wiki page: [M469](../../../../PAGES/M469.md)
+Wiki page: [M469](../)
 
 
 - **Year:** 1978 (title block date)
